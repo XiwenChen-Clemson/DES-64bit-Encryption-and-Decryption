@@ -1,4 +1,4 @@
-# INF638
+# DES
 
 This repo is for demo my INF638 project codes.
 Any question plsease contact me:xc53@nau.edu
